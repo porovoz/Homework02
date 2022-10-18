@@ -49,7 +49,7 @@ public class Main {
         System.out.println("Продуктов в одной машине теперь " + productsInOneCar);
 
         //homework02 started
-//task 1
+        //task 1
         var dog = 8;
         var cat = 3.6;
         var paper = 763789;
@@ -91,7 +91,7 @@ public class Main {
         frog = frog + 4;
         System.out.println(frog);
 
-//task 6
+        //task 6
         var firstBoxersWeight = 78.2;
         var secondBoxersWeight = 82.7;
         var totalBoxersWeight = firstBoxersWeight + secondBoxersWeight;
