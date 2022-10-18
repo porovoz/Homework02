@@ -47,5 +47,7 @@ public class Main {
 
         var productsInOneCar = productsWeight / 2;
         System.out.println("Продуктов в одной машине теперь " + productsInOneCar);
+
+        //homework02 started
     }
 }
